@@ -1,1 +1,2 @@
-# Elevator-Control-Program
+# Elevator-Control-Program 
+### 用 C++ 实现的电梯控制程序核心逻辑.这个程序模拟了一个简单的电梯控制系统，包含电梯状态管理、请求处理和调度算法
